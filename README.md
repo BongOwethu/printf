@@ -1,4 +1,4 @@
-###This is a readme file for thr ALX project 0x11. C - printf team project
+### This is a readme file for thr ALX project 0x11. C - printf team project
 
 Group Project with partner Gaoussou Pierre Solo KEITA.                                                                                       
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'mn a Spur for life.                                                
